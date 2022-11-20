@@ -10,4 +10,4 @@ cd .. : allows you to go backwards from your current path/directory.
 
 ctrl + a/e : takes you to the beginning or the end of the command line
 
-ctrl + u : erases your current command line
+ctrl + u : clears your current command line without executing it
