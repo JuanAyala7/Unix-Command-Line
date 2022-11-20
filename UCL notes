@@ -13,3 +13,5 @@ cd .. : allows you to go backwards from your current path/directory.
 ctrl + A/E : takes you to the beginning or the end of the command line
 
 ctrl + U : clears your current command line without executing it
+
+mkdir : make a directory (folder)
