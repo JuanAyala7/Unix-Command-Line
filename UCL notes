@@ -8,6 +8,6 @@ up/down : scroll through your previous commands
  
 cd .. : allows you to go backwards from your current path/directory.
 
-ctrl + a/e : takes you to the beginning or the end of the command line
+ctrl + A/E : takes you to the beginning or the end of the command line
 
-ctrl + u : clears your current command line without executing it
+ctrl + U : clears your current command line without executing it
