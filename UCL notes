@@ -4,14 +4,21 @@ ls = list
 
 cd ~ : users directory
 
-cd = change directory 
+cd = change directory
 
-up/down : scroll through your previous commands
+up/down : scroll through your previous commands.
  
 cd .. : allows you to go backwards from your current path/directory.
 
-ctrl + A/E : takes you to the beginning or the end of the command line
+ctrl + A/E : takes you to the beginning or the end of the command line.
 
-ctrl + U : clears your current command line without executing it
+ctrl + U : clears your current command line without executing it.
 
 mkdir : make a directory (folder)
+
+
+//Creating, Opening, and Removing Files through the Command Line
+
+touch : used to create, change and modify timestamps of a file.
+
+start : opens the file within the directory (folder).
