@@ -22,8 +22,7 @@ mkdir : Make a directory (folder).
 touch : Used to create, change and modify timestamps of a file.
 
 start : Opens the file within the directory for Windows Users.
-
-open : Does the same as start but for MacOS Users.
+Note : 'open' does the same as 'start' but for MacOS Users.
 
 start atom Text1.txt : This allows the user to open a file within a desired application, in this case, it was atom.
 ^ atom is for Windows Users while -a would be form MacOS Users.
