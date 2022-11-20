@@ -24,3 +24,5 @@ touch : used to create, change and modify timestamps of a file.
 start : opens the file within the directory (folder) for Windows Users.
 
 open : does the same as start but for MacOS Users.
+
+start atom Text1.txt : this allows the user to open a file within a desired application, in this case, it was atom.
