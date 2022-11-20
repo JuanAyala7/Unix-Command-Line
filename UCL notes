@@ -1,3 +1,5 @@
+//Command Line Techniques and Directory Navigation
+
 ls = list
 
 cd ~ : users directory
