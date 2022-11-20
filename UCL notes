@@ -1,31 +1,35 @@
 //Command Line Techniques and Directory Navigation
 
-ls = list
+ls = List
 
-cd ~ : users directory
+cd ~ : Users directory
 
-cd = change directory
+cd = Change directory
 
-up/down : scroll through your previous commands.
+up/down : Scroll through your previous commands.
  
-cd .. : allows you to go backwards from your current path/directory.
+cd .. : Allows you to go backwards from your current path/directory.
 
-ctrl + A/E : takes you to the beginning or the end of the command line.
+ctrl + A/E : Takes you to the beginning or the end of the command line.
 
-ctrl + U : clears your current command line without executing it.
+ctrl + U : Clears your current command line without executing it.
 
-mkdir : make a directory (folder).
+mkdir : Make a directory (folder).
 
 
 //Creating, Opening, and Removing Files through the Command Line
 
-touch : used to create, change and modify timestamps of a file.
+touch : Used to create, change and modify timestamps of a file.
 
-start : opens the file within the directory for Windows Users.
+start : Opens the file within the directory for Windows Users.
 
-open : does the same as start but for MacOS Users.
+open : Does the same as start but for MacOS Users.
 
-start atom Text1.txt : this allows the user to open a file within a desired application, in this case, it was atom.
+start atom Text1.txt : This allows the user to open a file within a desired application, in this case, it was atom.
 ^ atom is for Windows Users while -a would be form MacOS Users.
 
 rm : Removes a specific file you'd like to remove from a directory.
+
+pwd : Shows the full path name of your current directory (from the root directory).
+
+rm * : Removes every file within the respective directory.
