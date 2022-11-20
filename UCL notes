@@ -21,4 +21,6 @@ mkdir : make a directory (folder)
 
 touch : used to create, change and modify timestamps of a file.
 
-start : opens the file within the directory (folder).
+start : opens the file within the directory (folder) for Windows Users.
+
+open : does the same as start but for MacOS Users.
