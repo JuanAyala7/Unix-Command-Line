@@ -33,3 +33,7 @@ rm : Removes a specific file you'd like to remove from a directory.
 pwd : Shows the full path name of your current directory (from the root directory).
 
 rm * : Removes every file within the respective directory.
+Note : if you try this command within a directory that consists of only folders, nothing will happen as this commands only removes files.
+
+rm -r : Allows you to remove a directory.
+Note : this will also remove all of the folders that are inside the directory (folder) along with all of its child components.
