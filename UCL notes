@@ -40,3 +40,5 @@ Note : this will also remove all of the folders that are inside the directory (f
 node *file-name.js* : This command would allow you to run the JavaScript code within the respective file ("index.js") in a computer instead of the browser.
 
 node : Allows you to go inside REPL (Read Evaluation Print Loop), which allows you to execute code in bite sized chunks.
+
+Tab button (twice) : This allows Hyper to reveal to you all the possible commands you can use from the point of what you have typed in Hyper. 
