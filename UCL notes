@@ -37,4 +37,4 @@ Note : if you try this command within a directory that consists of only folders,
 rm -r : Allows you to remove a directory.
 Note : this will also remove all of the folders that are inside the directory (folder) along with all of its child components.
 
-node index.js : This command would allow you to run the JavaScript code within the respective file ("index.js").
+node : This command would allow you to run the JavaScript code within the respective file ("index.js") in a computer instead of the browser.
