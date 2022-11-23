@@ -45,8 +45,13 @@ Tab button (twice) : This allows Hyper to reveal to you all the possible command
 
 atom . : This allows you to open your Express server in atom.
 
+
 //Handling Requests and Responses: the GET Request
 
 const express = require("express");
 
 const app = express();
+
+app.listen(3000, function(){
+  console.log("Server started on port3000");
+});
