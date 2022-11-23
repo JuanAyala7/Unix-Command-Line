@@ -45,7 +45,11 @@ Tab button (twice) : This allows Hyper to reveal to you all the possible command
 
 atom . : This allows you to open your Express server in atom.
 
+npm install express :
 
+npm install -g nodemon :
+
+nodemon *file-name* :
 
 //Handling Requests and Responses: the GET Request
 
@@ -60,3 +64,5 @@ app.get("/", function(request, response){
 app.listen(3000, function(){
   console.log("Server started on port3000");
 });
+
+
