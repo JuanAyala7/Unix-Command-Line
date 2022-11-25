@@ -45,7 +45,7 @@ Tab button (twice) : This allows Hyper to reveal to you all the possible command
 
 atom . : This allows you to open your Express server in atom.
 
-npm install express :
+npm install express : This command allows you to install express within the directory.
 
 npm install -g nodemon :
 
