@@ -47,9 +47,11 @@ atom . : This allows you to open your Express server in atom.
 
 npm install express : This command allows you to install express within the directory.
 
-npm install -g nodemon :
+nodemon is a tool that helps develop Node.js based applications by automatically restarting the node application when file changes in the directory are detected.
+nodemon will watch the files in the directory in which nodemon was started, and if any files change, nodemon will automatically restart your node application.
+npm install -g nodemon : This command allows you to install nodemon to your respective file/directory.
 
-nodemon *file-name* :
+nodemon *file-name* :  This command allows you to install nodemon as a developement dependency.
 
 //Handling Requests and Responses: the GET Request
 
