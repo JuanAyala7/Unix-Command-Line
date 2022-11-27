@@ -68,3 +68,12 @@ app.listen(3000, function(){
 });
 
 
+git init
+
+git add .
+
+git commit -m "insert comment/change"
+
+heroku create
+
+git push heroku master
