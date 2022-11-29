@@ -1,10 +1,12 @@
 //Command Line Techniques and Directory Navigation
 
-ls = List
+ls : List
+
+ls -a : This allows you to see all of the hidden files.
 
 cd ~ : Users directory
 
-cd = Change directory
+cd : Change directory
 
 up/down : Scroll through your previous commands.
  
@@ -72,9 +74,11 @@ app.listen(3000, function(){
 
 git init : This allows you to initialize an empty Git repository within the respective local directory.
 
-git add "file.name"
+git add "file.name" : This allows you to add the file to the staging area which'll allow you to start tracking changes in it.
 
-git commit -m "insert comment/change"
+git commit -m "insert comment/change" : This allows you to commit the file under version control.
+Note: the m in "-m" stands for message which is something that helps you keep track of what changes you have made in each commit.
+      When you create a new save point, you want to be as explicit as possible about what changes were made b/w the last save point and the current save point.
 
 heroku create
 
