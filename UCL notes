@@ -99,7 +99,9 @@ git checkout : This allows you to revert the changes that you've made locally in
 
 git remote add origin :
 
-git push -u origin master
+git push -u origin master :
+
+git ignore :
 
 Working Directory :
 
