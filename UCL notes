@@ -70,6 +70,12 @@ app.listen(3000, function(){
 });
 
 
+heroku create
+
+git push heroku master
+
+
+
 //Git, Github and Version Control
 
 git init : This allows you to initialize an empty Git repository within the respective local directory.
@@ -80,11 +86,8 @@ git commit -m "insert comment/change" : This allows you to commit the file under
 Note: the m in "-m" stands for message which is something that helps you keep track of what changes you have made in each commit.
       When you create a new save point, you want to be as explicit as possible about what changes were made b/w the last save point and the current save point.
 
-heroku create
 
-git push heroku master
-
-git status
+git status: This allows you to see what's currently inside your staging area, which, will show you the files that are being tracked or are untracked.
 
 git log
 
