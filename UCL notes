@@ -68,12 +68,22 @@ app.listen(3000, function(){
 });
 
 
+//Git, Github and Version Control
+
 git init
 
-git add .
+git add "file.name"
 
 git commit -m "insert comment/change"
 
 heroku create
 
 git push heroku master
+
+git status
+
+git log
+
+git diff
+
+git checkout
