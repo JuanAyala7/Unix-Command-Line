@@ -96,3 +96,15 @@ git log : This allows you to see what commits you have made.
 git diff : This allows you to check out the differences b/w the current version of a file to the last save point in your Git repository.
 
 git checkout : This allows you to revert the changes that you've made locally in your working directory.
+
+git remote add origin :
+
+git push -u origin master
+
+Working Directory :
+
+Staging Area :
+
+Master Branch : 
+
+
