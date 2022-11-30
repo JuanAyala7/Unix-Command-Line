@@ -103,6 +103,8 @@ git push -u origin master :
 
 git ignore :
 
+git clone :
+
 Working Directory :
 
 Staging Area :
