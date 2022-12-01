@@ -114,3 +114,11 @@ Master Branch :
 Local Repository :
 
 Remote Repository :
+
+git branch "branch-name" :
+
+git checkout "branch-name" :
+
+git merge "branch-name" :
+
+git push origin master -u :
