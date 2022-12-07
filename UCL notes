@@ -97,11 +97,11 @@ git diff : This allows you to check out the differences b/w the current version 
 
 git checkout : This allows you to revert the changes that you've made locally in your working directory.
 
-git remote add origin :
+git remote add origin : This command centralises your source code to the other projects.
 
-git push -u origin master :
+git push -u origin master : 
 
-git ignore :
+git ignore : This command specifies intentionally untracked files that Git should ignore.
 
 git clone :
 
