@@ -99,7 +99,7 @@ git checkout : This allows you to revert the changes that you've made locally in
 
 git remote add origin : This command centralises your source code to the other projects.
 
-git push -u origin master : 
+git push -u origin master : This will push the changes to the master branch of the primary repository database.
 
 git ignore : This command specifies intentionally untracked files that Git should ignore.
 
