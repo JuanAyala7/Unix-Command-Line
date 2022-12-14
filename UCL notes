@@ -113,7 +113,7 @@ Master Branch : This is the default branch in Git.
 
 Local Repository :
 
-Remote Repository :
+Remote Repository : These are versions of your project that are hosted on the Internet or network somewhere.
 
 git branch "branch-name" : This command is used to to create a Git branch, be sure to provide a branch name after the command. 
 
