@@ -121,4 +121,4 @@ git checkout "branch-name" : This command switch branches or restore working tre
 
 git merge "branch-name" : This command merges the branches origin and branchname into the current branch.
 
-git push origin master -u :
+git push origin master -u : This command will push the changes to the master branch of the primary repository database.
