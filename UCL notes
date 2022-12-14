@@ -117,7 +117,7 @@ Remote Repository : These are versions of your project that are hosted on the In
 
 git branch "branch-name" : This command is used to to create a Git branch, be sure to provide a branch name after the command. 
 
-git checkout "branch-name" :
+git checkout "branch-name" : This command switch branches or restore working tree files.
 
 git merge "branch-name" :
 
