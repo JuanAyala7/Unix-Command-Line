@@ -109,7 +109,7 @@ Working Directory : A process is a directory of a hierarchical file system, if a
 
 Staging Area : Files that are going to be a part of the next commit, which lets git know what changes in the file are going to occur for the next commit. 
 
-Master Branch : 
+Master Branch : This is the default branch in Git.
 
 Local Repository :
 
