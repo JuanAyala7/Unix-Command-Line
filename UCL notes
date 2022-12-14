@@ -107,7 +107,7 @@ git clone : This command is used to point to an existing repository and make a c
 
 Working Directory : A process is a directory of a hierarchical file system, if any, dynamically associated with each process.
 
-Staging Area :
+Staging Area : Files that are going to be a part of the next commit, which lets git know what changes in the file are going to occur for the next commit. 
 
 Master Branch : 
 
