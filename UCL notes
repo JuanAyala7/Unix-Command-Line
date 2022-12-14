@@ -105,7 +105,7 @@ git ignore : This command specifies intentionally untracked files that Git shoul
 
 git clone : This command is used to point to an existing repository and make a clone or copy of that repository in a new directory, but in another location.
 
-Working Directory :
+Working Directory : A process is a directory of a hierarchical file system, if any, dynamically associated with each process.
 
 Staging Area :
 
