@@ -119,6 +119,6 @@ git branch "branch-name" : This command is used to to create a Git branch, be su
 
 git checkout "branch-name" : This command switch branches or restore working tree files.
 
-git merge "branch-name" :
+git merge "branch-name" : This command merges the branches origin and branchname into the current branch.
 
 git push origin master -u :
